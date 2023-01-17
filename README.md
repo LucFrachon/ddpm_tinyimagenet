@@ -12,6 +12,8 @@ The backbone is based on SmaAt-UNet \[3\] with added positional embedding layers
 The 'outputs' folder contains examples of what the model is able to generate. The images are clearly not photorealistic, but definitely contain features consistent with 
 seaside landscapes.
 
+You can read the Medium post that I wrote after building this project: [Part1](https://medium.com/@luc.frachon/the-intuitive-diffusion-model-part-1-10155c69b944) and [Part 2](https://medium.com/@luc.frachon/the-intuitive-diffusion-model-part-2-79c7e1e0ecb1).
+
 \[1\] Ho, J., Jain, A. and Abbeel, P., 2020. Denoising diffusion probabilistic models. Advances in Neural Information Processing Systems, 33, pp.6840–6851.  
 \[2\] Le, Y. and Yang, X., 2015. Tiny imagenet visual recognition challenge. CS 231N, 7(7), p.3.  
 \[3\] Trebing, K., Staǹczyk, T. and Mehrkanoon, S., 2021. SmaAt-UNet: Precipitation nowcasting using a small attention-UNet architecture. 
