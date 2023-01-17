@@ -1,0 +1,6 @@
+WANDB_PROJECT = "mlops-course-001-assignment"
+RAW_DATA_ART = "tiny-imagenet_raw"
+PROCESSED_DATA_ART = "tiny-imgnt-with-google-extra-resized"
+TRAINED_MODEL_ART = "unet-tiny-imagenet"
+TRAINING_RUN_NAME = "tiny-imagenet-baseline"
+OUTPUT_ART = "diffusion-outputs"
