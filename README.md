@@ -9,8 +9,8 @@ The validation set contains 50 images.
 
 The backbone is based on SmaAt-UNet \[3\] with added positional embedding layers.
 
-The 'outputs' folder contains examples of what the model is able to generate. Clearly not phot
-
+The 'outputs' folder contains examples of what the model is able to generate. The images are clearly not photorealistic, but definitely contain features consistent with 
+seaside landscapes.
 
 \[1\] Ho, J., Jain, A. and Abbeel, P., 2020. Denoising diffusion probabilistic models. Advances in Neural Information Processing Systems, 33, pp.6840–6851.  
 \[2\] Le, Y. and Yang, X., 2015. Tiny imagenet visual recognition challenge. CS 231N, 7(7), p.3.  
