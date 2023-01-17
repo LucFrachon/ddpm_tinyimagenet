@@ -1,4 +1,4 @@
-# dDenoising Diffusion Probabilistic Models, trained on TinyImageNet
+# Denoising Diffusion Probabilistic Models, trained on TinyImageNet
 
 This is a personal project where I implemented a model inspired by the DDPM paper [1] and trained it on TinyImageNet [2], a subset of ImageNet
 where the images are 64x64 pixels in size and with only 200 classes (500 images in each class). I only retained one class (n09428293, "seashore,
