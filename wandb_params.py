@@ -1,4 +1,4 @@
-WANDB_PROJECT = "mlops-course-001-assignment"
+WANDB_PROJECT = "DDPM"
 RAW_DATA_ART = "tiny-imagenet_raw"
 PROCESSED_DATA_ART = "tiny-imgnt-with-google-extra-resized"
 TRAINED_MODEL_ART = "unet-tiny-imagenet"
